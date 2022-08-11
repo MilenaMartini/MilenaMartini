@@ -1,3 +1,4 @@
+##
 ## Bem vindo ao meu perfil, meu nome é Milena e estou no 3ºano do ensino médio junto ao curso de DS 
 
 <br>
@@ -22,7 +23,7 @@
 
 </div>
   <br>
-    ## a
+    
 
 
 ![Snake animation](https://github.com/MilenaMartini/MilenaMartini/blob/output/github-contribution-grid-snake.svg)
