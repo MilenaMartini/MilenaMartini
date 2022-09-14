@@ -1,5 +1,5 @@
 
-## Bem vindo ao meu perfil, meu nome é Milena e estou no 3ºano do ensino médio junto ao curso de DS 
+## Bem vindo ao meu perfil, meu nome é Milena e estou no 3º ano do ensino médio junto ao curso de DS 
 
 <br>
 
@@ -33,7 +33,7 @@
 ## Encontre-me em:
 
 <p align="left">
-  <a href="https://linkedin.com/in/MilenaMartini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jvtristaoac" height="30" width="40" /></a> 
-  <a href="https://instagram.com/jvtristaoac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jvtristaoac" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/MilenaMartini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MilenaMartini" height="30" width="40" /></a> 
+  <a href="https://instagram.com/lena_miart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="MilenaMartini" height="30" width="40" /></a>
 
 </p>
