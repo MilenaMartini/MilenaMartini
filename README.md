@@ -11,7 +11,7 @@
     
   <img height="160em" src="http://github-readme-streak-stats.herokuapp.com?user=MilenaMartini&theme=github_dark&hdate_format=j%20M%5B%20Y%5D&stroke=DBDADA&background=0D1117&ring=f22727&fire=b30d1e&currStreakNum=FFFF&sideNums=FFFF&currStreakLabel=f22727&sideLabels=f22727&dates=75EEB"/><br>
     
-<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilenaMartini&theme=github_dark&layout=compact&langs_count=10"/>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilenaMartini&layout=compact&langs_count=10&theme=github_dark&title_color=f22727" />
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Milena-HTML" height="50" width="50" padding="10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
