@@ -1,5 +1,5 @@
 
-## Bem vindo ao meu perfil, meu nome é Milena e estou no 3º ano do ensino médio junto ao curso de DS 
+## Bem vindo ao meu perfil 
 
 <br>
 <div align="center">
