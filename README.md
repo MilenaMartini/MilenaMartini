@@ -58,6 +58,9 @@
 
 ## Where find me
 
+<details>
+    <summary>click here</summary>
+    
 <p align="center">
   <a href="https://linkedin.com/in/MilenaMartini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MilenaMartini" height="35" width="40" /></a> 
   <a href="https://instagram.com/lena_miart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="MilenaMartini" height="35" width="40" /></a>
@@ -69,3 +72,4 @@
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FMilenaMartini%2FMilenaMartini%2Fedit%2Fmain%2FREADME.md"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMilenaMartini%2FMilenaMartini%2Fedit%2Fmain%2FREADME.md&label=Visitantes&labelColor=%231c1c1c&countColor=%23ff0000" /></a>
 </p>
 
+</details>
