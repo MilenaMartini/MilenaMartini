@@ -15,7 +15,12 @@
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FMilenaMartini%2FMilenaMartini%2Fedit%2Fmain%2FREADME.md"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMilenaMartini%2FMilenaMartini%2Fedit%2Fmain%2FREADME.md&label=Visitantes&labelColor=%231c1c1c&countColor=%23ff0000" /></a>
 </p>
 
- #
+ </div>
+  </div>
+  
+ ## Programming language and Programs
+  
+  <div align="center">
  <img align="center" alt="Milena-HTML" height="50" width="50" padding="10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Milena-Csharp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Milena-php" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
@@ -23,7 +28,6 @@
   <img align="center" alt="Milena-php" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Milena-php" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 
-</div>
 
 ##
     
@@ -31,7 +35,8 @@
 
 </div>
 
-## Encontre-me em:
+## Where find me
+
 
 <p align="left">
   <a href="https://linkedin.com/in/MilenaMartini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MilenaMartini" height="30" width="40" /></a> 
