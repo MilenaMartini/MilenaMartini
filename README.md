@@ -2,7 +2,6 @@
 <br>
 
 ## About me ⭐
-
 ### -I am 18y 
 ### -I am living in Brazil 
 ### - I like cartoon, games, music and drawing
