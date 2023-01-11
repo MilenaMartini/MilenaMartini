@@ -23,7 +23,7 @@
   <img align="center" alt="Milena-php" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 
 </div>
-    
+
 ##
     
 ![Snake animation](https://github.com/MilenaMartini/MilenaMartini/blob/output/github-contribution-grid-snake.svg)
