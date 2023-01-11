@@ -9,11 +9,17 @@
 <br>
 
 ## My Activity  
+<br>
+    
 <div align='center'>
   <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=MilenaMartini&theme=github_dark&hdate_format=j%20M%5B%20Y%5D&stroke=DBDADA&background=0D1117&ring=f22727&fire=b30d1e&currStreakNum=FFFF&sideNums=FFFF&currStreakLabel=f22727&sideLabels=f22727&dates=75EEB"/><br>
     
   <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilenaMartini&layout=compact&langs_count=10&theme=github_dark&title_color=f22727" />
-
+  
+<p align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=MilenaMartini&theme=darkhub&margin-w=15" alt="Trophies GitHub" />
+</p>
+  
 <div style="display: inline_block" align="center"><br>
 
  </div>
