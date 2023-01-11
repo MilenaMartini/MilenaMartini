@@ -1,20 +1,21 @@
-
-## Bem vindo ao meu perfil 
-
+# *💖Welcome to my profile💖* 
 <br>
-<div align="center">
 
 
-    
-    
-   
-    
+## My Activity  
+<div align='center'>
   <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=MilenaMartini&theme=github_dark&hdate_format=j%20M%5B%20Y%5D&stroke=DBDADA&background=0D1117&ring=f22727&fire=b30d1e&currStreakNum=FFFF&sideNums=FFFF&currStreakLabel=f22727&sideLabels=f22727&dates=75EEB"/><br>
     
   <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilenaMartini&layout=compact&langs_count=10&theme=github_dark&title_color=f22727" />
 
 <div style="display: inline_block" align="center"><br>
- 
+
+
+<p align='end'>
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FMilenaMartini%2FMilenaMartini%2Fedit%2Fmain%2FREADME.md"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMilenaMartini%2FMilenaMartini%2Fedit%2Fmain%2FREADME.md&label=Visitantes&labelColor=%231c1c1c&countColor=%23ff0000" /></a>
+</p>
+
+ #
  <img align="center" alt="Milena-HTML" height="50" width="50" padding="10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Milena-Csharp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Milena-php" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
