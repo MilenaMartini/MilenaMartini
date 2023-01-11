@@ -3,7 +3,7 @@
 
 ## About me ⭐
 <details>
-    <summary>click here</summary>
+    <summary>✨click here✨</summary>
     <ul>
             <li> -I am 18y </li>
             <li> -I am living in Brazil </li>
@@ -17,7 +17,7 @@
 <br>
     <div>
      <details>
-     <summary>My Trophies</summary>
+     <summary>🏆My Trophies🏆</summary>
     <br />
 <p align="center">
         <img src="https://github-profile-trophy.vercel.app/?username=MilenaMartini&theme=darkhub&margin-w=15" alt="Trophies GitHub" />
@@ -59,7 +59,7 @@
 ## Where find me
 
 <details>
-    <summary>click here</summary>
+    <summary>✨click here✨</summary>
     
 <p align="center">
   <a href="https://linkedin.com/in/MilenaMartini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MilenaMartini" height="35" width="40" /></a> 
