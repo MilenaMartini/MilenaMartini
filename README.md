@@ -1,5 +1,5 @@
 # *💖Welcome to my profile💖* 
-<br>
+<br />
 
 ## About me ⭐
 <details>
