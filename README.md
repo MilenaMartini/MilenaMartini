@@ -37,7 +37,7 @@
  </div>
   </div>
  
- ## Programming language and Programs
+ ## Programming language, frameworks and Programs
  <br> 
   <p align="center">
     <img src="https://skillicons.dev/icons?i=cs,css,html,js,php,react,sass" />
