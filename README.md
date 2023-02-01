@@ -40,7 +40,7 @@
  ## Programming language and Programs
  <br> 
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=cs,css,html,js,php" />
+    <img src="https://skillicons.dev/icons?i=cs,css,html,js,php,react,sass" />
   </p>
   <br />
   
