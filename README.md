@@ -5,10 +5,10 @@
 <details>
     <summary>click here✨</summary>
     <ul>
-            <li> -I am 18y </li>
-            <li> -I am living in Brazil </li>
-            <li> - I like cartoon, games, music and drawing </li>
-            <li> - If you like this profile, starred and follow me 💕</li>
+            <li> I am 18y </li>
+            <li> I am living in Brazil </li>
+            <li> I like cartoon, games, music and drawing </li>
+            <li> If you like this profile, starred and follow me 💕</li>
      </ul>
 </details>       
 <br>
