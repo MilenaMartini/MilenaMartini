@@ -40,7 +40,7 @@
  ## Programming language and frameworks
  <br> 
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=cs,css,html,js,php,react,sass" />
+    <img src="https://skillicons.dev/icons?i=cs,css,html,js,php,react,sass,vue,ts,tailwind&perline=5" />
   </p>
   <br />
  
