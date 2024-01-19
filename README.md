@@ -28,9 +28,9 @@
     <br />
  
 <div align='center'>
-  <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=MilenaMartini&theme=github_dark&hdate_format=j%20M%5B%20Y%5D&stroke=DBDADA&background=0D1117&border=fff&ring=f22727&fire=b30d1e&currStreakNum=FFFF&sideNums=FFFF&currStreakLabel=f22727&sideLabels=f22727&dates=FFFF"/><br>
-    
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilenaMartini&layout=compact&langs_count=10&theme=github_dark&title_color=f22727" />      
+<img src="https://github-readme-streak-kohl.vercel.app?user=MilenaMartini&theme=buefy-dark&exclude_days=Sun%2CSat&sideLabels=FF3860&fire=FF3860" alt="GitHub Streak" />
+    <br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilenaMartini&layout=compact&bg_color=1a1b27&title_color=7957d5&text_color=a0a0a1">
         
 <div style="display: inline_block" align="center"><br>
 
