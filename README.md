@@ -13,16 +13,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MilenaMartini&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
- 
-<div align="center">  
-    <a href="https://linkedin.com/in/MilenaMartini" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" alt="LinkedIn">
-    </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/lenami_martini/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge" alt="Instagram">
-  </a>
-</div>
 
 </div> 
  
@@ -55,5 +45,15 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{MilenaMartini}/count.svg" /></p> 
 <br></div>
+
+<div align="center">  
+    <a href="https://linkedin.com/in/MilenaMartini" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" alt="LinkedIn">
+    </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/lenami_martini/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge" alt="Instagram">
+  </a>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0090&height=120&section=footer"/>
